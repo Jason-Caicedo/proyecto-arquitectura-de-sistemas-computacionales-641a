@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|
 | 1 | Rendimiento | p95 de latencia | menor a 400 ms | 200 usuarios concurrentes | Prueba de carga | La respuesta del sistema se considera demasiado lenta |
 | 2 | Disponibilidad | Porcentaje de disponibilidad | mayor o igual a 99 % | Operacion durante un mes | Monitoreo del servicio | Los usuarios no podran utilizar el sistema durante las interrupciones |
-| 3 | Seguridad | Intentos de acceso no autorizado registrados | 100 % de los intentos deben quedar registrados | Intentos de acceso durante la operacion | Revision de registros de seguridad | Se pierde trazabilidad sobre posibles accesos no autorizados |
+| 3 | Seguridad | Intentos de acceso no autorizado registrados | 100 % de los intentos deben quedar registrados y auditados | Intentos de acceso durante la operacion | Revision de registros de seguridad | Se pierde trazabilidad sobre posibles accesos no autorizados |
 
 ## Escenarios completos
 
